@@ -9,11 +9,6 @@ A basic calculator program in C++.
 Tools Required:
 Visual Studio Code (VS Code)
 
-C/C++ Extension for VS Code
-
-MSYS2 for MinGW-w64 (C++ compiler)
-
-Windows OS (for PATH setup and compilation)
 
 Theory:
 In this experiment, you learn to set up a basic C++ programming environment using Visual Studio Code and MinGW-w64.
