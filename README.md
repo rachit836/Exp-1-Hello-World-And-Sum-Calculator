@@ -15,7 +15,7 @@ Visual Studio Code (VS Code)
 
 Theory:
 
-In this experiment, you learn to set up a basic C++ programming environment using Visual Studio Code and MinGW-w64.
+In this experiment, you learn to set up a basic C++ programming environment using Visual Studio Code.
 
 The Hello World program is a simple starting point that demonstrates the basic syntax of a C++ program including:
 
